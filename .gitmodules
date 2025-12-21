@@ -1,0 +1,6 @@
+[submodule "thought-branches"]
+	path = thought-branches
+	url = https://github.com/interp-reasoning/thought-branches.git
+[submodule "thought-anchors"]
+	path = thought-anchors
+	url = https://github.com/interp-reasoning/thought-anchors.git
