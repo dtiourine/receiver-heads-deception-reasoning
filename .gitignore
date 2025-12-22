@@ -209,3 +209,4 @@ __marimo__/
 notebooks/attention_cache
 notebooks/attention_cache_truncated_reasoning
 notebooks/cache
+notebooks/cutoff_prompt_mistake/attention_cache
